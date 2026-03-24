@@ -2,9 +2,9 @@
 
 <h3 align="center">MSc Student in Data Science | Software Engineer </h3>
 
-- 🔭 I'm currently developing [LiftDrop](https://github.com/JohnnyR2003/LiftDrop) 
+- 🔭 Finished developing [LiftDrop](https://github.com/JohnnyR2003/LiftDrop) 
 <br><br>
-- 📚 Starting my MSc in Data Science soon, focusing on machine learning and analytics
+- 📚 Started my MSc in Data Science recently, focusing on machine learning and analytics
   
 
 ### Languages and Tools
